@@ -8,4 +8,14 @@ public class TestGitClass {
     int myBetterMethod() {
         return -5;
     }
+
+    int myBetterMethod() {
+        return -5;
+    }
+
+}
+
+    void nothingMethod() {
+
+    }
 }
