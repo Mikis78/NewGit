@@ -8,4 +8,21 @@ public class TestGitClass {
     void anotherAnyMethod() {
 
     }
+    void panicMethod() {
+
+    }
+
+    int myBetterMethod() {
+        return -5;
+    }
+
+    int myBetterMethod() {
+        return -5;
+    }
+
+}
+
+    void nothingMethod() {
+
+    }
 }
